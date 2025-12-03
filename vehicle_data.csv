@@ -1,0 +1,6 @@
+vehicle_id,battery_health,engine_temp,oil_pressure,mileage_since_service,health_score
+TXA-3052,78,95,30,8000,80
+TXA-1189,55,115,25,12000,55
+TXA-4120,90,85,32,5000,92
+TXA-2766,68,105,28,9500,70
+TXA-3999,45,120,20,15000,50
